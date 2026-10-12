@@ -1,0 +1,41 @@
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    background-color: #df37b5;
+}
+
+header{
+    background-color: #eef1f3;
+    color: white;
+    padding: 1rem
+}
+
+.head{
+    background-color: #f8f9fa;
+    color: white;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+a{
+    color: #064b1b;
+    text-decoration: none;
+}
+
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li{
+    margin-right: 1rem;
+}
+
+nav ul li a{
+    color: #e41f1f;
+    text-decoration: none;
+}
